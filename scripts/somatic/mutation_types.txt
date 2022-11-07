@@ -1,0 +1,9 @@
+FS
+intronic
+large del
+missense
+nonsense
+other
+silent
+splice
+all

@@ -1,0 +1,22 @@
+Mutation	Domain Frequency +/- 95% Confidence Interval
+41	nan+/-nan
+59	nan+/-nan
+58	nan+/-nan
+57	nan+/-nan
+56	nan+/-nan
+55	nan+/-nan
+54	nan+/-nan
+53	nan+/-nan
+52	nan+/-nan
+60	nan+/-nan
+51	nan+/-nan
+49	nan+/-nan
+48	nan+/-nan
+47	nan+/-nan
+46	nan+/-nan
+45	nan+/-nan
+44	nan+/-nan
+43	nan+/-nan
+42	nan+/-nan
+50	nan+/-nan
+61	nan+/-nan

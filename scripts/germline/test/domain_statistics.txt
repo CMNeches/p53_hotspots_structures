@@ -1,0 +1,7 @@
+Domain	Number of Mutations in Domain	Domain Cross Section
+TAD1	0	0.0
+TAD2	0	0.0
+PR	0	0.0
+DBD	0	0.0
+OD	1	0.030303030303030304
+C-terminus	0	0.0

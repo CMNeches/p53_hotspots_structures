@@ -14,7 +14,7 @@ echo "$tissue_type"$'\t'"$mutation_type"$'\t'"$bio_sex"
 output_dir="../../results/hotspots/somatic/"${tissue_type}"/"${mutation_type}"/"${bio_sex}""
 mkdir -p "$output_dir"
 
-python3 all_germline_hotspot_locs.py "$tissue_type" "$mutation_type" "$bio_sex" "$output_dir"
+python3 all_som_hotspot_locs.py "$tissue_type" "$mutation_type" "$bio_sex" "$output_dir"
 
 done
 done
